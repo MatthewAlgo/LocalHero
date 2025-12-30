@@ -56,6 +56,10 @@ LocalHero/
 │   └── tests/              # Frontend tests
 │
 └── README.md
+└── .github/
+    └── workflows/
+        └── ci.yml          # GitHub Actions CI workflow
+└── Jenkinsfile             # Jenkins CI/CD pipeline
 ```
 
 ## 🚀 Getting Started
