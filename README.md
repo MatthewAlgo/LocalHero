@@ -57,8 +57,8 @@ LocalHero/
 │
 └── README.md
 └── .github/
-    └── workflows/
-        └── ci.yml          # GitHub Actions CI workflow
+|    └── workflows/
+|        └── ci.yml          # GitHub Actions CI workflow
 └── Jenkinsfile             # Jenkins CI/CD pipeline
 ```
 
