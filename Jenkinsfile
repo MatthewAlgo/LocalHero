@@ -1,6 +1,10 @@
 pipeline {
     agent any
 
+    tools {
+        nodejs "NodeJS25"
+    }
+
     environment {
         // CI Environment
         NODE_ENV = 'test'
